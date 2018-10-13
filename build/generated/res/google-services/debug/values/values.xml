@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">219197801768-eb87el8r0530ignp6424p1sc8nd5q6am.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://productcataloglab.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">219197801768</string>
+    <string name="google_api_key" translatable="false">AIzaSyCU3JVaVr1f3fOWbAWNRfCUm_9JT2RCrhk</string>
+    <string name="google_app_id" translatable="false">1:219197801768:android:aadfeba8c26d67fc</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCU3JVaVr1f3fOWbAWNRfCUm_9JT2RCrhk</string>
+    <string name="google_storage_bucket" translatable="false">productcataloglab.appspot.com</string>
+    <string name="project_id" translatable="false">productcataloglab</string>
+</resources>
